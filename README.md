@@ -1,5 +1,9 @@
 # COOPadelphia-Chatroom
-COOPadlphia's Chatroom, An Open Source Chatroom app.
+COOPadelphia's Chatroom, An Open Source Chatroom app.
+
+
+
+
 
 
 This is not my original code! This is edited code from pxlmastr on replit.
