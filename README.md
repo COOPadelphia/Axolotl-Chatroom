@@ -1,4 +1,4 @@
-# README.md
+# README
 COOPadelphia's Chatroom, An Open Source Chatroom app.
 
 
