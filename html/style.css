@@ -1,6 +1,6 @@
 body{
   background: #f5f5f5;
-  color: #303030;
+  color: #000000;
   font-family: 'Segoe UI';
 }
 
@@ -18,11 +18,11 @@ input{
 }
 
 .Message{
-  color: #a0a0a0;
+  color: #9a8484;
 }
 
 #Main{
-  background: #a0a0a0;
+  background: #969696;
   border-radius: 1%;
   padding-left: 1%;
 }
