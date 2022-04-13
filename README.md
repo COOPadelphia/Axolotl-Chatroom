@@ -1,5 +1,5 @@
 # COOPadelphia's Chatroom
-COOPadelphia's Chatroom, An Open Source Chatroom app.
+COOPadelphia's Chatroom is an Open Source Chatroom app.
 
 
 
