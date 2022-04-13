@@ -14,6 +14,6 @@ Original code: https://replit.com/@pxlmastr/pxlmastr-Chat-App?v=1
 
 
 # **CHANGELOG**
--REMOVED PUBLIC CHANNELS
+- REMOVED PUBLIC CHANNELS
 
--CHANGED BACKGROUND COLOR
+- CHANGED BACKGROUND COLOR
