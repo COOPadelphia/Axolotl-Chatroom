@@ -19,7 +19,7 @@ Original code: https://replit.com/@pxlmastr/pxlmastr-Chat-App?v=1
 
 - CHANGED BACKGROUND COLOR
 
-****VERSION 2
+**VERSION 2**
 
 - CHANGED TEXT COLOR
 
@@ -31,7 +31,7 @@ Original code: https://replit.com/@pxlmastr/pxlmastr-Chat-App?v=1
 
 - CHANGED NAME TO AXOLOTL'S CHATROOM
 
-****VERSION 2.1
+**VERSION 2.1**
 - CHANGED BACKGROUND COLOR
 
 - CHANGED TEXT COLOR
