@@ -1,7 +1,7 @@
 # Axolotl's Chatroom
  Axolotl's Chatroom is an Open Source Chatroom app.
 
-
+(NOTICE: AXOLOTL'S CHATROOM ONLY WORKS FOR PEOPLE ON THE SAME WIFI)
 
 
 
