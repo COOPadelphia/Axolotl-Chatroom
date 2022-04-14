@@ -14,12 +14,12 @@ Original code: https://replit.com/@pxlmastr/pxlmastr-Chat-App?v=1
 
 
 # **CHANGELOG**
-**VERSION 1**
+**VERSION 1.00**
 - REMOVED PUBLIC CHANNELS
 
 - CHANGED BACKGROUND COLOR
 
-**VERSION 2**
+**VERSION 2.00**
 
 - CHANGED TEXT COLOR
 
@@ -31,7 +31,11 @@ Original code: https://replit.com/@pxlmastr/pxlmastr-Chat-App?v=1
 
 - CHANGED NAME TO AXOLOTL'S CHATROOM
 
-**VERSION 2.1**
+**VERSION 2.10**
 - CHANGED BACKGROUND COLOR
 
 - CHANGED TEXT COLOR
+
+**VERSION 2.20**
+- CHANGED INPUT COLOR
+
