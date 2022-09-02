@@ -3,7 +3,7 @@
 
 (NOTICE: AXOLOTL'S CHATROOM ONLY WORKS FOR PEOPLE ON THE SAME WIFI)
 
-Please note: This project has been abandoned, if you would like to use it, you can use 'gh repo clone COOPadelphia/Axolotl-Chatroom' to get the files.
+Please note: This project has been abandoned, if you would like to use it, you can use `gh repo clone COOPadelphia/Axolotl-Chatroom` to get the files.
 
 This is not my original code! This is edited code from pxlmastr on replit.
 
